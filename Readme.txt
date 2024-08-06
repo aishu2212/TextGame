@@ -1,4 +1,4 @@
-CW2- Text Adventure Game:
+Text Adventure Game:
 For compilation:
 
 You can either use makefile, and run make in command prompt.
